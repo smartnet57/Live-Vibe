@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Live Vibe Coder",
+  "description": "An app that lets you build apps using your voice via the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
